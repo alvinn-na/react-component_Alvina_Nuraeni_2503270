@@ -1,4 +1,4 @@
-import '../App.css'
+import '../biodata_full_code.css'
 import Header from './header'
 import Section from './section'
 import Footer from './footers'
